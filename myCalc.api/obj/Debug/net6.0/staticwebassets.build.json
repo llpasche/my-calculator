@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RqdRIXRvbhYJ3QKAmNQIKpbMShXDV0QVb6Fcc82ZBvk=",
+  "Source": "myCalc.api",
+  "BasePath": "_content/myCalc.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

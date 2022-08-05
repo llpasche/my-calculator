@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>myCalc.api</name>
+    </assembly>
+    <members>
+        <member name="M:myCalc.api.Controllers.Calculator.Operate(myCalc.Domain.OperationInfo)">
+            <summary>
+                This method does the operation based on the operation signal sent via body.
+            </summary>
+            <param name="x">first number</param>
+            <param name="y">second number</param>
+            <param name="operationSignal">operation signal</param>
+            <returns>the sum of the two numbers</returns>
+        </member>
+        <member name="M:myCalc.api.Controllers.Calculator.getResult">
+            <summary>
+                This method shows the operation result
+            </summary>
+            <returns>the result</returns>
+        </member>
+    </members>
+</doc>

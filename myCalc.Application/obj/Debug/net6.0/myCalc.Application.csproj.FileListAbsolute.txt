@@ -1,0 +1,15 @@
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\bin\Debug\net6.0\myCalc.Application.deps.json
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\bin\Debug\net6.0\myCalc.Application.dll
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\bin\Debug\net6.0\myCalc.Application.pdb
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\bin\Debug\net6.0\myCalc.Domain.dll
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\bin\Debug\net6.0\myCalc.Domain.pdb
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.csproj.AssemblyReference.cache
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.AssemblyInfoInputs.cache
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.AssemblyInfo.cs
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.csproj.CopyComplete
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.dll
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\refint\myCalc.Application.dll
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\myCalc.Application.pdb
+C:\Projetos\estudos\csharp\my-calculator\myCalc.Application\obj\Debug\net6.0\ref\myCalc.Application.dll
